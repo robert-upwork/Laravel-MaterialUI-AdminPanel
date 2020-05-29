@@ -1,8 +1,6 @@
 # Laravel Material Dashboard
 
-Simple Laravel adminpanel based on [Material Dashboard theme from Creative Tim](https://www.creative-tim.com/product/material-dashboard-laravel)
-
-Generated with [QuickAdminPanel generator](https://2019.quickadminpanel.com) and manually applied front-end theme.
+Simple Laravel adminpanel based on Material Dashboard theme
 
 What's inside:
 
@@ -27,17 +25,3 @@ What's inside:
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL. 
 - You can login to adminpanel with default credentials __admin@admin.com__ - __password__
-
-## License
-
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
